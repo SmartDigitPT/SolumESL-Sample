@@ -81,12 +81,10 @@ C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Numerics.Vectors.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.ValueTuple.dll
-C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.pdb
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.xml
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.Bson.pdb
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.Bson.xml
-C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Text.Encodings.Web.xml
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Text.Json.xml
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.csproj.AssemblyReference.cache
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.csproj.SuggestedBindingRedirects.cache
@@ -95,6 +93,8 @@ C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SoulumSample.SampleForm.resour
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.Properties.Resources.resources
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.csproj.GenerateResource.cache
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.csproj.CoreCompileInputs.cache
-C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.csproj.CopyComplete
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.exe
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.pdb
+C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Text.Encodings.Web.dll
+C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSam.A6E14989.Up2Date

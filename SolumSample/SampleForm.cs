@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Linq;
 using System.Windows.Forms;
-using SolumSample.Interfaces;
-using static SolumSample.Interfaces.Solus;
+using SolumSample.Provider;
+using static SolumSample.Provider.Solus;
 
 namespace SoulumSample
 {
@@ -72,7 +71,7 @@ namespace SoulumSample
             
 
             var response = await solusProvider.SendNewItem(articleData, Company.Text, Store.Text, URL2.Text);
-            Console.WriteLine($"Resposta da API: {response}");
+            Console.WriteLine($"API Response: {response}");
 
             if (response.Contains("\"responseCode\":\"200\""))
             {

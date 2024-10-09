@@ -81,7 +81,6 @@ C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Numerics.Vectors.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.ValueTuple.dll
-C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.pdb
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.xml
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.Bson.pdb
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.Bson.xml
@@ -98,3 +97,5 @@ C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSample.pdb
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Text.Encodings.Web.dll
 C:\Smartdev\SolumESL-Sample\SolumSample\obj\Debug\SolumSam.A6E14989.Up2Date
+C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\Newtonsoft.Json.dll
+C:\Smartdev\SolumESL-Sample\SolumSample\bin\Debug\System.Text.Json.dll

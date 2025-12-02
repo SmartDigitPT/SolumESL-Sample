@@ -58,9 +58,10 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(673, 236);
+            this.button2.Location = new System.Drawing.Point(897, 290);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(105, 23);
+            this.button2.Size = new System.Drawing.Size(140, 28);
             this.button2.TabIndex = 137;
             this.button2.Text = "&Close";
             this.button2.UseVisualStyleBackColor = true;
@@ -92,16 +93,18 @@
             this.Details1.Controls.Add(this.label2);
             this.Details1.Dock = System.Windows.Forms.DockStyle.Top;
             this.Details1.Location = new System.Drawing.Point(0, 0);
+            this.Details1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Details1.Name = "Details1";
-            this.Details1.Size = new System.Drawing.Size(814, 220);
+            this.Details1.Size = new System.Drawing.Size(1085, 271);
             this.Details1.TabIndex = 136;
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(673, 175);
+            this.button1.Location = new System.Drawing.Point(897, 215);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(105, 23);
+            this.button1.Size = new System.Drawing.Size(140, 28);
             this.button1.TabIndex = 134;
             this.button1.Text = "Upload >>";
             this.button1.UseVisualStyleBackColor = true;
@@ -111,9 +114,10 @@
             // 
             this.ItemDescription.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ItemDescription.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.ItemDescription.Location = new System.Drawing.Point(306, 177);
+            this.ItemDescription.Location = new System.Drawing.Point(408, 218);
+            this.ItemDescription.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ItemDescription.Name = "ItemDescription";
-            this.ItemDescription.Size = new System.Drawing.Size(187, 20);
+            this.ItemDescription.Size = new System.Drawing.Size(249, 23);
             this.ItemDescription.TabIndex = 132;
             this.ItemDescription.Text = "Item A0001 Description";
             // 
@@ -121,9 +125,10 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label9.Location = new System.Drawing.Point(206, 180);
+            this.label9.Location = new System.Drawing.Point(275, 222);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(86, 13);
+            this.label9.Size = new System.Drawing.Size(113, 17);
             this.label9.TabIndex = 133;
             this.label9.Text = "Item Description:";
             // 
@@ -131,9 +136,10 @@
             // 
             this.ItemValue.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ItemValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.ItemValue.Location = new System.Drawing.Point(562, 177);
+            this.ItemValue.Location = new System.Drawing.Point(749, 218);
+            this.ItemValue.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ItemValue.Name = "ItemValue";
-            this.ItemValue.Size = new System.Drawing.Size(68, 20);
+            this.ItemValue.Size = new System.Drawing.Size(90, 23);
             this.ItemValue.TabIndex = 130;
             this.ItemValue.Text = "1,00";
             this.ItemValue.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -142,9 +148,10 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label5.Location = new System.Drawing.Point(499, 180);
+            this.label5.Location = new System.Drawing.Point(665, 222);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(57, 13);
+            this.label5.Size = new System.Drawing.Size(74, 17);
             this.label5.TabIndex = 131;
             this.label5.Text = "Item Price:";
             // 
@@ -152,9 +159,10 @@
             // 
             this.ItemID.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ItemID.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.ItemID.Location = new System.Drawing.Point(124, 177);
+            this.ItemID.Location = new System.Drawing.Point(165, 218);
+            this.ItemID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ItemID.Name = "ItemID";
-            this.ItemID.Size = new System.Drawing.Size(68, 20);
+            this.ItemID.Size = new System.Drawing.Size(90, 23);
             this.ItemID.TabIndex = 128;
             this.ItemID.Text = "A00001";
             // 
@@ -162,18 +170,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label1.Location = new System.Drawing.Point(24, 180);
+            this.label1.Location = new System.Drawing.Point(32, 222);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 13);
+            this.label1.Size = new System.Drawing.Size(55, 17);
             this.label1.TabIndex = 129;
             this.label1.Text = "Item ID:";
             // 
             // buttonTest
             // 
             this.buttonTest.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonTest.Location = new System.Drawing.Point(673, 87);
+            this.buttonTest.Location = new System.Drawing.Point(897, 107);
+            this.buttonTest.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonTest.Name = "buttonTest";
-            this.buttonTest.Size = new System.Drawing.Size(105, 23);
+            this.buttonTest.Size = new System.Drawing.Size(140, 28);
             this.buttonTest.TabIndex = 127;
             this.buttonTest.Text = "Test";
             this.buttonTest.UseVisualStyleBackColor = true;
@@ -182,9 +192,10 @@
             // Logo1
             // 
             this.Logo1.Image = global::SolumSample.Properties.Resources.solum_logo;
-            this.Logo1.Location = new System.Drawing.Point(506, 9);
+            this.Logo1.Location = new System.Drawing.Point(675, 11);
+            this.Logo1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Logo1.Name = "Logo1";
-            this.Logo1.Size = new System.Drawing.Size(272, 67);
+            this.Logo1.Size = new System.Drawing.Size(363, 82);
             this.Logo1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Logo1.TabIndex = 120;
             this.Logo1.TabStop = false;
@@ -193,27 +204,31 @@
             // 
             this.Password.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Password.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.Password.Location = new System.Drawing.Point(477, 89);
+            this.Password.Location = new System.Drawing.Point(636, 110);
+            this.Password.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Password.Name = "Password";
-            this.Password.Size = new System.Drawing.Size(154, 20);
+            this.Password.PasswordChar = '*';
+            this.Password.Size = new System.Drawing.Size(205, 23);
             this.Password.TabIndex = 3;
             // 
             // Store
             // 
             this.Store.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Store.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.Store.Location = new System.Drawing.Point(305, 122);
+            this.Store.Location = new System.Drawing.Point(407, 150);
+            this.Store.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Store.Name = "Store";
-            this.Store.Size = new System.Drawing.Size(68, 20);
+            this.Store.Size = new System.Drawing.Size(90, 23);
             this.Store.TabIndex = 5;
             // 
             // label8
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label8.Location = new System.Drawing.Point(259, 125);
+            this.label8.Location = new System.Drawing.Point(345, 154);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(35, 13);
+            this.label8.Size = new System.Drawing.Size(46, 17);
             this.label8.TabIndex = 117;
             this.label8.Text = "Store:";
             // 
@@ -221,18 +236,20 @@
             // 
             this.Company.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Company.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.Company.Location = new System.Drawing.Point(124, 122);
+            this.Company.Location = new System.Drawing.Point(165, 150);
+            this.Company.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Company.Name = "Company";
-            this.Company.Size = new System.Drawing.Size(68, 20);
+            this.Company.Size = new System.Drawing.Size(90, 23);
             this.Company.TabIndex = 4;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label7.Location = new System.Drawing.Point(24, 125);
+            this.label7.Location = new System.Drawing.Point(32, 154);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(54, 13);
+            this.label7.Size = new System.Drawing.Size(71, 17);
             this.label7.TabIndex = 115;
             this.label7.Text = "Company:";
             // 
@@ -240,18 +257,20 @@
             // 
             this.User.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.User.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.User.Location = new System.Drawing.Point(124, 89);
+            this.User.Location = new System.Drawing.Point(165, 110);
+            this.User.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.User.Name = "User";
-            this.User.Size = new System.Drawing.Size(250, 20);
+            this.User.Size = new System.Drawing.Size(333, 23);
             this.User.TabIndex = 2;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label6.Location = new System.Drawing.Point(24, 91);
+            this.label6.Location = new System.Drawing.Point(32, 112);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(32, 13);
+            this.label6.Size = new System.Drawing.Size(42, 17);
             this.label6.TabIndex = 113;
             this.label6.Text = "User:";
             // 
@@ -259,9 +278,10 @@
             // 
             this.URL2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.URL2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.URL2.Location = new System.Drawing.Point(124, 56);
+            this.URL2.Location = new System.Drawing.Point(165, 69);
+            this.URL2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.URL2.Name = "URL2";
-            this.URL2.Size = new System.Drawing.Size(359, 20);
+            this.URL2.Size = new System.Drawing.Size(478, 23);
             this.URL2.TabIndex = 1;
             this.URL2.Text = "https://eu.common.solumesl.com/common/api/v2/common/articles";
             // 
@@ -269,9 +289,10 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label4.Location = new System.Drawing.Point(24, 58);
+            this.label4.Location = new System.Drawing.Point(32, 71);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(58, 13);
+            this.label4.Size = new System.Drawing.Size(74, 17);
             this.label4.TabIndex = 111;
             this.label4.Text = "URL Itens:";
             // 
@@ -279,9 +300,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label3.Location = new System.Drawing.Point(417, 91);
+            this.label3.Location = new System.Drawing.Point(556, 112);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(56, 13);
+            this.label3.Size = new System.Drawing.Size(73, 17);
             this.label3.TabIndex = 110;
             this.label3.Text = "Password:";
             // 
@@ -289,9 +311,10 @@
             // 
             this.URL.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.URL.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.URL.Location = new System.Drawing.Point(124, 23);
+            this.URL.Location = new System.Drawing.Point(165, 28);
+            this.URL.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.URL.Name = "URL";
-            this.URL.Size = new System.Drawing.Size(359, 20);
+            this.URL.Size = new System.Drawing.Size(478, 23);
             this.URL.TabIndex = 0;
             this.URL.Text = "https://eu.common.solumesl.com/common/api/v2/token";
             // 
@@ -299,21 +322,25 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label2.Location = new System.Drawing.Point(24, 25);
+            this.label2.Location = new System.Drawing.Point(32, 31);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 13);
+            this.label2.Size = new System.Drawing.Size(79, 17);
             this.label2.TabIndex = 108;
             this.label2.Text = "URL Login:";
             // 
             // SampleForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.ClientSize = new System.Drawing.Size(814, 273);
+            this.ClientSize = new System.Drawing.Size(1085, 336);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.Details1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "SampleForm";
+            this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Solum Sample";
             this.Load += new System.EventHandler(this.SampleForm_Load);
             this.Details1.ResumeLayout(false);

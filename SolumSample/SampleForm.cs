@@ -78,6 +78,8 @@ namespace SoulumSample
 
                 MessageBox.Show("Article updated successfully!", "SolumSample", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+            else
+                MessageBox.Show(response, "SolumSample", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
 
         }
